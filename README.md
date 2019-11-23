@@ -54,4 +54,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [eslint-plugin-prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-prettier.md)
 
+- [history](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/history.md)
+
 - [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
+
+- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
