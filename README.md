@@ -62,17 +62,29 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [history](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/history.md)
 
+- [Immer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/immer.md)
+
 - [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
 
 - [polished](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/polished.md)
 
 - [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
 
+- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
+
 - [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
 
 - [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
 
 - [reactotron-react-js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-js.md)
+
+- [reactotron-redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-redux.md)
+
+- [reactotron-redux-saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-redux-saga.md)
+
+- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
+
+- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
 
 - [styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/styled-components.md)
 
