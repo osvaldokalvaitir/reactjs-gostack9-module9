@@ -77,3 +77,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/styled-components.md)
 
 - [unform](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@rocketseat-unform.md)
+
+- [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
