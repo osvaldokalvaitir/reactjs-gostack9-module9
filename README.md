@@ -78,6 +78,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
 
+- [react-toastify](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-toastify.md)
+
 - [reactotron-react-js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-js.md)
 
 - [reactotron-redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-redux.md)
