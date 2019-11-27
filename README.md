@@ -72,9 +72,13 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
 
+- [React Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-icons.md)
+
 - [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
 
 - [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
+
+- [React-Perfect-Scrollbar](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-perfect-scrollbar.md)
 
 - [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
 
