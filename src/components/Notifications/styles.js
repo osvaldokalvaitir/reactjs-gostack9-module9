@@ -14,7 +14,7 @@ export const Badge = styled.button`
   ${props =>
     props.hasUnread &&
     css`
-      &&::after {
+      &::after {
         position: absolute;
         right: 0;
         top: 0;
