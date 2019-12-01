@@ -10,9 +10,19 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação.
+Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-fns, date-fns-tz, react-router-dom, history, Immer, polished, React Icons, react-toastify e React-Perfect-Scrollbar consumindo os recursos da API do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo).
 
 ## Índice
+
+- [Capturas de Tela](#capturas-de-tela)
+
+  - [SignIn](#signin)
+
+  - [SignUp](#signup)
+
+  - [Dashboard](#dashboard)
+
+  - [Profile](#profile)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -26,7 +36,33 @@ Aplicação.
 
   - [Bibliotecas](#bibliotecas)
 
+  - [APIs](#apis)
+
+  - [Ferramentas](#ferramentas)
+
 ## Desenvolvimento
+
+## Capturas de Tela
+
+### SignIn
+
+![SignIn](/assets/signin.png)
+Esta é a primeira tela, onde o usuário precisa realizar o login para entrar no sistema, podendo também criar uma conta gratuita.
+
+### SignUp
+
+![SignUp](/assets/signup.png)
+Nesta tela, é necessário o usuário preencher os campos para criar uma conta no sistema.
+
+### Dashboard
+
+![Dashboard](/assets/dashboard.png)
+No dashboard, encontram-se todos os agendamentos vindos da API de um determinado dia, podendo esse dia ser alterado pelo usuário.
+
+### Profile
+
+![Profile](/assets/profile.png)
+Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
 
 ### Configuração do Ambiente
 
@@ -105,3 +141,34 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [unform](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@rocketseat-unform.md)
 
 - [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
+
+### APIs
+
+- **[Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo)**
+
+  - **Rotas**
+
+    - Agenda
+
+      - Lista todos os compromissos de um prestador e de uma data
+
+    - Notificações
+
+      - Lista todas as notificações de um prestador
+      - Edita dados de notificações existentes
+
+    - Usuários
+
+      - Adiciona novos usuários
+      - Edita dados de usuários existentes
+
+    - Sessões
+
+      - Adiciona novas sessões
+
+    - Arquivos
+
+      - Adiciona novos arquivos
+
+### Ferramentas
+- [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
