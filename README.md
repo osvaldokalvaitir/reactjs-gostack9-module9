@@ -40,8 +40,6 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-
 
   - [Ferramentas](#ferramentas)
 
-## Desenvolvimento
-
 ## Capturas de Tela
 
 ### SignIn
@@ -63,6 +61,8 @@ No dashboard, encontram-se todos os agendamentos vindos da API de um determinado
 
 ![Profile](/assets/profile.png)
 Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
+
+## Desenvolvimento
 
 ### Configuração do Ambiente
 
