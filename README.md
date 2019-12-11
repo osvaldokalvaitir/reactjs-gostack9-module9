@@ -16,13 +16,13 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-
 
 - [Capturas de Tela](#capturas-de-tela)
 
-  - [Login](#signin)
+  - [Login](#login)
 
-  - [Cadastro](#signup)
+  - [Cadastro](#cadastro)
 
   - [Dashboard](#dashboard)
 
-  - [Perfil](#profile)
+  - [Perfil](#perfil)
 
 - [Desenvolvimento](#desenvolvimento)
 
