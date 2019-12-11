@@ -16,13 +16,13 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-
 
 - [Capturas de Tela](#capturas-de-tela)
 
-  - [SignIn](#signin)
+  - [Login](#signin)
 
-  - [SignUp](#signup)
+  - [Cadastro](#signup)
 
   - [Dashboard](#dashboard)
 
-  - [Profile](#profile)
+  - [Perfil](#profile)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -42,12 +42,12 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-
 
 ## Capturas de Tela
 
-### SignIn
+### Login
 
 ![SignIn](/assets/signin.png)
 Esta é a primeira tela, onde o usuário precisa realizar o login para entrar no sistema, podendo também criar uma conta gratuita.
 
-### SignUp
+### Cadastro
 
 ![SignUp](/assets/signup.png)
 Nesta tela, é necessário o usuário preencher os campos para criar uma conta no sistema.
@@ -57,7 +57,7 @@ Nesta tela, é necessário o usuário preencher os campos para criar uma conta n
 ![Dashboard](/assets/dashboard.png)
 No dashboard, encontram-se todos os agendamentos vindos da API de um determinado dia, podendo esse dia ser alterado pelo usuário.
 
-### Profile
+### Perfil
 
 ![Profile](/assets/profile.png)
 Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
