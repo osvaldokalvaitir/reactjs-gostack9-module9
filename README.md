@@ -60,7 +60,7 @@ No dashboard, encontram-se todos os agendamentos vindos da API de um determinado
 ### Perfil
 
 ![Profile](/.github/assets/profile.png)
-Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
+Nesta tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
 
 ## Desenvolvimento
 
