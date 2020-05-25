@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-fns, date-fns-tz, react-router-dom, history, Immer, polished, React Icons, react-toastify e React-Perfect-Scrollbar consumindo os recursos da API do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo).
+Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-fns, date-fns-tz, react-router-dom, history, Immer, polished, React Icons, react-toastify e React-Perfect-Scrollbar consumindo os recursos da API do [Node.js - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo).
 
 ## Índice
 
@@ -144,7 +144,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- **[Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo)**
+- **[Nodejs - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo)**
 
   - **Rotas**
 
