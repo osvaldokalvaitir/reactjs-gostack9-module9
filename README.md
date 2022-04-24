@@ -1,174 +1,63 @@
-# ReactJS - Módulo 9 (Novo)
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo9-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo9-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-modulo9-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-modulo9-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-modulo9-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-modulo9-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo9-novo.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - GoStack 9 Module 9
+</h3>
 
-Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, unform, Yup, date-fns, date-fns-tz, react-router-dom, history, Immer, polished, React Icons, react-toastify e React-Perfect-Scrollbar consumindo os recursos da API do [Node.js - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo).
+<p align="center">
+  :barber: GoBarber Application using Redux, Redux-Saga, Redux Persist, unform, Yup, date-fns, date-fns-tz, react-router-dom, history, Immer, polished, React Icons, react-toastify, React-Perfect-Scrollbar, Reactotron and consuming the features of the Node.js - GoStack 9 Module 3 API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-gostack9-module9.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-gostack9-module9.svg?color=00A83A">
 
-  - [Login](#login)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Cadastro](#cadastro)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Dashboard](#dashboard)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Perfil](#perfil)
+## :computer: Demo
 
-- [Desenvolvimento](#desenvolvimento)
+![Demo](/.github/assets/demo.gif)
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+## :wrench: Install and run
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+_ps: Before running the app, start the [Node.js - GoStack 9 Module 3 API](https://github.com/osvaldokalvaitir/nodejs-gostack9-module3) backend._
 
-  - [Execução do Projeto](#execução-do-projeto)
+Open terminal:
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-gostack9-module9
 
-  - [Bibliotecas](#bibliotecas)
+# Entry in folder
+cd reactjs-gostack9-module9
 
-  - [APIs](#apis)
+# Install deps with npm or yarn
+npm install | yarn
 
-  - [Ferramentas](#ferramentas)
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-## Capturas de Tela
+## :memo: License
 
-### Login
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-![SignIn](/.github/assets/signin.png)
-Esta é a primeira tela, onde o usuário precisa realizar o login para entrar no sistema, podendo também criar uma conta gratuita.
+---
 
-### Cadastro
-
-![SignUp](/.github/assets/signup.png)
-Nesta tela, é necessário o usuário preencher os campos para criar uma conta no sistema.
-
-### Dashboard
-
-![Dashboard](/.github/assets/dashboard.png)
-No dashboard, encontram-se todos os agendamentos vindos da API de um determinado dia, podendo esse dia ser alterado pelo usuário.
-
-### Perfil
-
-![Profile](/.github/assets/profile.png)
-Nesta tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
-
-## Desenvolvimento
-
-### Configuração do Ambiente
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
-
-### Instalação do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [Babel Root Import](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-plugin-root-import.md)
-
-- [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [customize-cra](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/customize-cra.md)
-
-- [date-fns](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/date-fns.md)
-
-- [date-fns-tz](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/date-fns-tz.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [eslint-config-prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-config-prettier.md)
-
-- [eslint-import-resolver-babel-plugin-root-import](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-import-resolver-babel-plugin-root-import.md)
-
-- [eslint-plugin-prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-prettier.md)
-
-- [history](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/history.md)
-
-- [Immer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/immer.md)
-
-- [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
-
-- [polished](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/polished.md)
-
-- [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
-
-- [React Icons](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-icons.md)
-
-- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
-
-- [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
-
-- [React-Perfect-Scrollbar](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-perfect-scrollbar.md)
-
-- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
-
-- [react-toastify](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-toastify.md)
-
-- [reactotron-react-js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-js.md)
-
-- [reactotron-redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-redux.md)
-
-- [reactotron-redux-saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-redux-saga.md)
-
-- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
-
-- [Redux Persist](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-persist.md)
-
-- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
-
-- [styled-components](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/styled-components.md)
-
-- [unform](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@rocketseat-unform.md)
-
-- [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
-
-### APIs
-
-- **[Nodejs - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo)**
-
-  - **Rotas**
-
-    - Agenda
-
-      - Lista todos os compromissos de um prestador e de uma data
-
-    - Notificações
-
-      - Lista todas as notificações de um prestador
-      - Edita dados de notificações existentes
-
-    - Usuários
-
-      - Adiciona novos usuários
-      - Edita dados de usuários existentes
-
-    - Sessões
-
-      - Adiciona novas sessões
-
-    - Arquivos
-
-      - Adiciona novos arquivos
-
-### Ferramentas
-- [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
