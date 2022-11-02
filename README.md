@@ -49,7 +49,7 @@ cd reactjs-gostack9-module9
 npm install | yarn
 
 # Launch the app with npm or yarn
-npm start | yarn start
+npm run start | yarn start
 ```
 
 Click to learn more about the tools used: [Reactotron](https://github.com/osvaldokalvaitir/awesome/blob/main/src/apps-inspectors/reactotron.md).
